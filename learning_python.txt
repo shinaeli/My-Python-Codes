@@ -1,0 +1,8 @@
+In Python, you can create data structures such as list, dictionary and tuple.
+In Python, you can iterate through the items of a list.
+In Python, you can store values in a container called 'variable'.
+In Python, you can read and update text files.
+In Python, you can multiply a string value with an integer value.
+In Python, you can iterate through the keys, values and items of a dictionary.
+In Python, you can automate a process e.g. creating a new column and filling its entries in an excel sheet.
+In Python, tuples immutable while list and dictionary are not.
