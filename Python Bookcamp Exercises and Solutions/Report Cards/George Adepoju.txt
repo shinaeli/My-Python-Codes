@@ -1,0 +1,11 @@
+
+    ***Report Card***
+    ***Course name: Python for Beginners***
+    ========================================
+    Student Name: George Adepoju
+    Assignment-1 score: 28
+    Assignment-2 score: 28
+    Exam score: 82.8
+    Final score: 76.1
+    Grade: B(Good)
+            

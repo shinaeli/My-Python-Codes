@@ -3,8 +3,9 @@ class Privileges:
         self.privileges = ['can add post', 'can ban user', 'can delete post']
 
     def show_privileges(self):
-            for privilege in self.privileges:
-                print(privilege)
+        for privilege in self.privileges:
+            print(privilege)
+
 
 class User:
     def __init__(self, first_name, last_name, age, email):

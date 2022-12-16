@@ -19,6 +19,7 @@ class Restaurant:
         self.number_served += increased_served
         print(self.number_served)
 
+
 restaurant1 = Restaurant('yaKoYO', 'leather seats')
 restaurant1.number_served = 20
 print(restaurant1.number_served)

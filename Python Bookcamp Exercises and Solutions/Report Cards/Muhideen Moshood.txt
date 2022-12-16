@@ -1,0 +1,11 @@
+
+    ***Report Card***
+    ***Course name: Python for Beginners***
+    ========================================
+    Student Name: Muhideen Moshood
+    Assignment-1 score: 40
+    Assignment-2 score: 39
+    Exam score: 89
+    Final score: 86.5
+    Grade: A(Very Good)
+            

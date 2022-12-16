@@ -1,0 +1,11 @@
+
+    ***Report Card***
+    ***Course name: Python for Beginners***
+    ========================================
+    Student Name: Oluwasina Omotosho
+    Assignment-1 score: 48
+    Assignment-2 score: 49
+    Exam score: 95
+    Final score: 95.5
+    Grade: A+(Outstanding)
+            

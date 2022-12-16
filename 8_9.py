@@ -6,3 +6,7 @@ def show_messages(messages):
 message_list = ['How are you?', 'How was your day?', 'Have a great day.']
 
 show_messages(message_list)
+
+# How are you?
+# How was your day?
+# Have a great day.

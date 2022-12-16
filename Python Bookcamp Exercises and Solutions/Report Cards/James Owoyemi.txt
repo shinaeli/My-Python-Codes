@@ -1,0 +1,11 @@
+
+    ***Report Card***
+    ***Course name: Python for Beginners***
+    ========================================
+    Student Name: James Owoyemi
+    Assignment-1 score: 10
+    Assignment-2 score: 15.68
+    Exam score: 50.94
+    Final score: 44.625
+    Grade: Fail
+            

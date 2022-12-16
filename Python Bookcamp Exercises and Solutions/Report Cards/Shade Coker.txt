@@ -1,0 +1,11 @@
+
+    ***Report Card***
+    ***Course name: Python for Beginners***
+    ========================================
+    Student Name: Shade Coker
+    Assignment-1 score: 38
+    Assignment-2 score: 32
+    Exam score: 87
+    Final score: 82.75
+    Grade: A(Very Good)
+            

@@ -1,0 +1,11 @@
+
+    ***Report Card***
+    ***Course name: Python for Beginners***
+    ========================================
+    Student Name: Wemimo Adelugba
+    Assignment-1 score: 42
+    Assignment-2 score: 38
+    Exam score: 89
+    Final score: 86.75
+    Grade: A(Very Good)
+            

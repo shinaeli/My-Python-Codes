@@ -8,3 +8,7 @@ call_2 = city_country('chicago', 'united states of america')
 print(call_2)
 call_3 = city_country('cairo', 'egypt')
 print(call_3)
+
+# "Lagos, Nigeria"
+# "Chicago, United States Of America"
+# "Cairo, Egypt"

@@ -37,3 +37,11 @@ print(admin1.last_name.title())
 print(admin1.age)
 print(admin1.email)
 admin1.show_privileges()
+
+# David
+# James
+# 25
+# davidojay@gmail.com
+# can add post
+# can ban user
+# can delete post

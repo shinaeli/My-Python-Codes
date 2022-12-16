@@ -1,0 +1,11 @@
+
+    ***Report Card***
+    ***Course name: Python for Beginners***
+    ========================================
+    Student Name: Jamiu Adekola
+    Assignment-1 score: 20
+    Assignment-2 score: 10
+    Exam score: 28
+    Final score: 28.5
+    Grade: Fail
+            

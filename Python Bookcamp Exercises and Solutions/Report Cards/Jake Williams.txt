@@ -1,0 +1,11 @@
+
+    ***Report Card***
+    ***Course name: Python for Beginners***
+    ========================================
+    Student Name: Jake Williams
+    Assignment-1 score: 26.8
+    Assignment-2 score: 32
+    Exam score: 34
+    Final score: 40.2
+    Grade: Fail
+            

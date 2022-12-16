@@ -1,0 +1,11 @@
+
+    ***Report Card***
+    ***Course name: Python for Beginners***
+    ========================================
+    Student Name: Seyi Jegede
+    Assignment-1 score: 28
+    Assignment-2 score: 30
+    Exam score: 75
+    Final score: 70.75
+    Grade: B(Good)
+            

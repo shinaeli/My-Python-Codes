@@ -11,3 +11,9 @@ message_list = ['How are you?', 'How was your day?', 'Have a great day.']
 send_messages(message_list)
 
 print(message_list)
+
+# How are you?
+# How was your day?
+# Have a great day.
+# ['How are you?', 'How was your day?', 'Have a great day.']
+# ['How are you?', 'How was your day?', 'Have a great day.']
